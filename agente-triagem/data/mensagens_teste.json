@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cliente": "Mariana Souza",
+    "mensagem": "Oi, esqueci minha senha e o link de recuperação não chegou no meu e-mail. O que eu faço?"
+  },
+  {
+    "id": 2,
+    "cliente": "Carlos Lima",
+    "mensagem": "Fui cobrado DUAS VEZES esse mês no cartão!! Quero saber o que aconteceu."
+  },
+  {
+    "id": 3,
+    "cliente": "Fernanda Alves",
+    "mensagem": "Quero cancelar minha assinatura. Como faço? Tem multa?"
+  },
+  {
+    "id": 4,
+    "cliente": "Roberto Dias",
+    "mensagem": "Isso é um absurdo, é a TERCEIRA vez que abro chamado e ninguém resolve. Já perdi um cliente por causa do sistema de vocês fora do ar. Quero falar com um responsável AGORA ou vou acionar o Procon."
+  },
+  {
+    "id": 5,
+    "cliente": "Juliana Prado",
+    "mensagem": "Comprei o plano anual ontem mas me arrependi, consigo o dinheiro de volta?"
+  },
+  {
+    "id": 6,
+    "cliente": "André Gomes",
+    "mensagem": "O app fica travando toda hora que tento gerar relatório, aparece um erro ERR-500."
+  },
+  {
+    "id": 7,
+    "cliente": "Paula Ribeiro",
+    "mensagem": "Vocês têm integração com o sistema Protheus da TOTVS? Preciso disso pra fechar contrato com minha empresa, são 200 licenças."
+  },
+  {
+    "id": 8,
+    "cliente": "Tiago Nunes",
+    "mensagem": "boa tarde, só queria dizer que o novo painel ficou ótimo, parabéns pro time :)"
+  }
+]
